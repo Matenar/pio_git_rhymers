@@ -34,13 +34,9 @@ public class IntLinkedList {
         return i;
     }
 
-    public void setI(int i){
-        this.i=i;
-    }
 
-    public void setLast(Node last) {
-        this.last = last;
-    }
+
+
 
     public Node getLast() {
         return last;

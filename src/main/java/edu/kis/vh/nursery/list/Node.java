@@ -28,8 +28,5 @@ public class Node {
     public Node getPrev(Node last) {
         return prev;
     }
-
-    public void setPrev(Node prev) {
-        this.prev = prev;
-    }
+    
 }
